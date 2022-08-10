@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Julia! 🙋‍‍
 
-<!--
-**sisscov/sisscov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 About Me
+I'm a junior frontend developer and as a self-taught person I gain knowledge with 
+the help of materials on the Internet. 
+I have experience as a graphic designer and I know the basics of UX / UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-banaszek-267713190/)
+
+
+## What am I doing now?
+👩‍💻 working on developing my portfolio with new projects
+
+🧠 learning javascript and react
+
+
+
+
+## 🛠 Languages and Tools I use
+`Javascript` `HTML` `CSS` `SCSS` `Visual Studio Code` 
+
+`Firefox Developer Edition` `GitHub` `Bootstrap`
+
